@@ -29,15 +29,14 @@
 
 ### 🔴 US-002: Unendliches Canvas implementieren
 **Als** Nutzer
-**möchte ich** ein unendliches, zoomfähiges Canvas haben,
-**damit** ich wie auf einem echten Whiteboard unbegrenzt Platz habe.
+**möchte ich** ein Canvas äquivalent zu realer Whiteboard Größe haben
+**damit** ich wie auf einem echten Whiteboard immer alles auf einen Blick sehe.
 
 **Akzeptanzkriterien:**
-- Canvas ohne feste Größenbeschränkung
-- Smooth Pan-Funktionalität (Drag mit Maus/Touch)
-- Zoom in/out mit Mausrad oder Pinch-Geste
+- Canvas größe anhand echter Whiteboardgrößen setzen
+- Alles auf einen Blick sehen als default und dann zoompan zum vergrößern wenn nötig
 - Zoom-Level-Anzeige
-- "Fit to screen" Button
+- "Fit to screen" Button (is back to start)
 - Performance: 60fps bei normaler Nutzung
 
 **Story Points:** 13
