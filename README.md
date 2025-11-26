@@ -16,15 +16,21 @@ Wir möchten ein benutzerfreundliches, flexibles Kanban Tool entwickeln, das Tea
 
 ## Geplante Kernfunktionen
 
-- 📋 Unbegrenzte Boards und Spalten
-- 🎯 Aufgabenkarten mit Details, Labels und Prioritäten
+- 📋 Übertragen des "echten Whiteboards" Gefühls in die digitale Welt
+- 🎯 Auf dem Board können Bereiche wie bei excalidraw gezeichent werden
 - 👥 Team-Kollaboration in Echtzeit
 - 🔄 Drag-and-Drop Interface
-- 💬 Kommentare und Diskussionen
-- 📎 Datei-Anhänge
-- 🔍 Suche und Filterung
+- 💬 Virtuelle Post its
+
+  Down the line
 - 📊 Fortschritts-Tracking
-- 🔔 Benachrichtigungen
+- KPI
+
+## Was wird abgebildet
+
+Echtes KAnban, die Prinzipien:
+Arbeit sichtbar machen
+...
 
 ## Installation
 
