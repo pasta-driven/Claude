@@ -1,36 +1,42 @@
 # Claude - Digitales Kanban Board
 
-Ein kollaboratives digitales Kanban Board Tool für agile Teams zur visuellen Verwaltung von Aufgaben und Workflows.
+Ein digitales Whiteboard, das das Gefühl und die Freiheit eines physischen Kanban Boards in die digitale Welt überträgt.
 
 ## Überblick
 
-Claude ist ein webbasiertes Kanban Board System, das Teams dabei unterstützt, ihre Arbeit zu organisieren, Fortschritte zu visualisieren und effizient zusammenzuarbeiten. Mit intuitiver Drag-and-Drop-Funktionalität und Echtzeit-Kollaboration wird Projektmanagement zum Kinderspiel.
+Claude ist kein weiteres strukturiertes Projektmanagement-Tool. Es ist ein **digitales Whiteboard**, das die Freiheit und Haptik eines echten Whiteboards mit den Vorteilen digitaler Kollaboration verbindet. Wie bei einem physischen Board können Teams frei zeichnen, Post-its platzieren und ihren Workflow so gestalten, wie es für sie am besten funktioniert.
+
+Inspiriert von Tools wie Excalidraw und den ursprünglichen Kanban-Prinzipien von Toyota, ermöglicht Claude Teams, ihre Arbeit authentisch zu visualisieren - ohne in starre Strukturen gepresst zu werden.
 
 ## Vision
 
-Wir möchten ein benutzerfreundliches, flexibles Kanban Tool entwickeln, das Teams jeder Größe dabei hilft:
-- Aufgaben visuell zu organisieren
-- Workflows transparent zu gestalten
-- Teamarbeit zu verbessern
-- Produktivität zu steigern
+Wir möchten das **Gefühl eines echten Whiteboards** digital erlebbar machen:
+- **Freiheit statt Struktur** - Zeichnen, skizzieren und organisieren wie auf einem echten Board
+- **Echtes Kanban** - Die ursprünglichen Prinzipien, nicht nur Spalten und Karten
+- **Natürliche Kollaboration** - So arbeiten, wie Teams es am Whiteboard tun würden
+- **Flow visualisieren** - WIP-Limits, Engpässe und Durchsatz sichtbar machen
 
 ## Geplante Kernfunktionen
 
+### Core Features
 - 📋 Übertragen des "echten Whiteboards" Gefühls in die digitale Welt
-- 🎯 Auf dem Board können Bereiche wie bei excalidraw gezeichent werden
+- 🎯 Auf dem Board können Bereiche wie bei Excalidraw gezeichnet werden
 - 👥 Team-Kollaboration in Echtzeit
 - 🔄 Drag-and-Drop Interface
-- 💬 Virtuelle Post its
+- 💬 Virtuelle Post-its
 
-  Down the line
+### Down the line
 - 📊 Fortschritts-Tracking
-- KPI
+- 📈 KPI-Dashboards
 
-## Was wird abgebildet
-
-Echtes KAnban, die Prinzipien:
-Arbeit sichtbar machen
-...
+### Was wird abgebildet
+Echtes Kanban mit den ursprünglichen Prinzipien:
+- **Arbeit sichtbar machen** - Visualisierung des gesamten Workflows
+- **Work in Progress (WIP) limitieren** - Fokus und Flow verbessern
+- **Flow managen** - Kontinuierliche Lieferung ermöglichen
+- **Explizite Prozess-Policies** - Gemeinsames Verständnis schaffen
+- **Feedback-Schleifen** - Kontinuierliche Verbesserung
+- **Kollaborativ verbessern** - Gemeinsam experimentieren und evolvieren
 
 ## Installation
 
