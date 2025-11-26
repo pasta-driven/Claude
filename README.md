@@ -1,10 +1,30 @@
-# Claude
+# Claude - Digitales Kanban Board
 
-Eine kurze Beschreibung des Projekts.
+Ein kollaboratives digitales Kanban Board Tool für agile Teams zur visuellen Verwaltung von Aufgaben und Workflows.
 
 ## Überblick
 
-Dieses Repository enthält das Claude-Projekt.
+Claude ist ein webbasiertes Kanban Board System, das Teams dabei unterstützt, ihre Arbeit zu organisieren, Fortschritte zu visualisieren und effizient zusammenzuarbeiten. Mit intuitiver Drag-and-Drop-Funktionalität und Echtzeit-Kollaboration wird Projektmanagement zum Kinderspiel.
+
+## Vision
+
+Wir möchten ein benutzerfreundliches, flexibles Kanban Tool entwickeln, das Teams jeder Größe dabei hilft:
+- Aufgaben visuell zu organisieren
+- Workflows transparent zu gestalten
+- Teamarbeit zu verbessern
+- Produktivität zu steigern
+
+## Geplante Kernfunktionen
+
+- 📋 Unbegrenzte Boards und Spalten
+- 🎯 Aufgabenkarten mit Details, Labels und Prioritäten
+- 👥 Team-Kollaboration in Echtzeit
+- 🔄 Drag-and-Drop Interface
+- 💬 Kommentare und Diskussionen
+- 📎 Datei-Anhänge
+- 🔍 Suche und Filterung
+- 📊 Fortschritts-Tracking
+- 🔔 Benachrichtigungen
 
 ## Installation
 
@@ -12,22 +32,26 @@ Dieses Repository enthält das Claude-Projekt.
 # Repository klonen
 git clone http://local_proxy@127.0.0.1:64004/git/pasta-driven/Claude
 cd Claude
+
+# Abhängigkeiten installieren (folgt)
+# npm install oder entsprechende Package Manager Befehle
 ```
 
 ## Verwendung
 
-Beschreiben Sie hier, wie das Projekt verwendet wird.
+Die Entwicklung hat gerade begonnen. Verwendungsanweisungen folgen nach Implementierung der ersten Features.
 
-## Funktionen
+## Technologie-Stack
 
-- Feature 1
-- Feature 2
-- Feature 3
+Noch festzulegen. Potenzielle Optionen:
+- Frontend: React, Vue.js oder Svelte
+- Backend: Node.js, Python/Django oder Go
+- Datenbank: PostgreSQL oder MongoDB
+- Echtzeit: WebSockets oder Server-Sent Events
 
-## Voraussetzungen
+## Projektplanung
 
-- Liste der benötigten Abhängigkeiten
-- Systemanforderungen
+Alle User Stories und geplanten Features finden Sie in der [BACKLOG.md](BACKLOG.md) Datei.
 
 ## Beitragen
 
