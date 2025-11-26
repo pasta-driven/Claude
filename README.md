@@ -38,28 +38,49 @@ Echtes Kanban mit den ursprünglichen Prinzipien:
 - **Feedback-Schleifen** - Kontinuierliche Verbesserung
 - **Kollaborativ verbessern** - Gemeinsam experimentieren und evolvieren
 
-## Installation
+## Installation & Setup
+
+Detaillierte Anweisungen finden Sie in [SETUP.md](SETUP.md).
+
+**Quick Start:**
 
 ```bash
 # Repository klonen
 git clone http://local_proxy@127.0.0.1:64004/git/pasta-driven/Claude
 cd Claude
 
-# Abhängigkeiten installieren (folgt)
-# npm install oder entsprechende Package Manager Befehle
+# Dependencies installieren
+pnpm install
+
+# Development Server starten
+pnpm dev
 ```
 
-## Verwendung
-
-Die Entwicklung hat gerade begonnen. Verwendungsanweisungen folgen nach Implementierung der ersten Features.
+Öffnen Sie dann:
+- Frontend: http://localhost:5173
+- Backend API: http://localhost:3000
 
 ## Technologie-Stack
 
-Noch festzulegen. Potenzielle Optionen:
-- Frontend: React, Vue.js oder Svelte
-- Backend: Node.js, Python/Django oder Go
-- Datenbank: PostgreSQL oder MongoDB
-- Echtzeit: WebSockets oder Server-Sent Events
+✅ **Festgelegt in US-001** - Details in [TECH_STACK.md](TECH_STACK.md)
+
+**Frontend:**
+- React 18 + TypeScript
+- Excalidraw (Canvas & Drawing Engine)
+- Zustand (State Management)
+- Vite (Build Tool)
+- TailwindCSS
+
+**Backend:**
+- Node.js 20 + Express
+- Yjs (CRDT-basierte Echtzeit-Sync)
+- PostgreSQL (Datenbank)
+- Redis (Cache & Sessions)
+
+**DevOps:**
+- pnpm Workspaces (Monorepo)
+- TypeScript (strict mode)
+- Vitest + Playwright (Testing)
 
 ## Projektplanung
 
